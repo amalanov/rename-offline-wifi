@@ -7,5 +7,5 @@ Supports
 
 You can set up a cron job to run script every 15 minutes. 
 ```
-*/15 * * * * ~/rename_offline_wifi_openwrt.sh
+*/15 * * * * ~/rename_offline_wifi.sh
 ```
